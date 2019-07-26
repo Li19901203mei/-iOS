@@ -1,0 +1,6 @@
+framework module XYQRegexPattern {
+  umbrella header "XYQRegexPattern-umbrella.h"
+
+  export *
+  module * { export * }
+}
